@@ -1,0 +1,74 @@
+[
+  {
+    "title": "1",
+    "order": "1",
+    "name": "Perfection",
+    "overlay": "left",
+    "subhead": "",
+    "image": "felix1.jpg",
+    "chatter": "",
+    "credit": "Mark Harrison / The Seattle Times",
+    "youtube": "",
+    "link": ""
+  },
+  {
+    "title": "2",
+    "order": "2",
+    "name": "Cy Young",
+    "overlay": "left",
+    "subhead": "",
+    "image": "felix2.jpg",
+    "chatter": "",
+    "credit": "Mike Siegel / The Seattle Times",
+    "youtube": "",
+    "link": ""
+  },
+  {
+    "title": "3",
+    "order": "3",
+    "name": "Extension, emotion",
+    "overlay": "left",
+    "subhead": "",
+    "image": "felix3.jpg",
+    "chatter": "",
+    "credit": "John Lok / The Seattle Times",
+    "youtube": "",
+    "link": ""
+  },
+  {
+    "title": "4",
+    "order": "4",
+    "name": "What could've been",
+    "overlay": "right",
+    "subhead": "",
+    "image": "felix4.jpg",
+    "chatter": "",
+    "credit": "Dean Rutz / The Seattle Times",
+    "youtube": "",
+    "link": ""
+  },
+  {
+    "title": "5",
+    "order": "5",
+    "name": "Remember the King",
+    "overlay": "right",
+    "subhead": "",
+    "image": "felix5.jpg",
+    "chatter": "",
+    "credit": "Charles Krupa / Associated Press",
+    "youtube": "",
+    "link": ""
+  },
+  {
+    "title": "6",
+    "order": "6",
+    "name": "Grand Salami",
+    "overlay": "right",
+    "subhead": "",
+    "image": "felix6.jpg",
+    "chatter": "",
+    "credit": "Seth Wenig / Associated Press",
+    "youtube": "",
+    "link": ""
+  }
+]
