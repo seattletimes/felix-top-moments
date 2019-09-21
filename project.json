@@ -16,5 +16,7 @@
   "tags": ["interactive", "parallax"],
   "image": "",
   "production": false,
+  "embed": true,
+  "standout": false,
   "sheets": ["1AHvy2eg-WwLelxhnbW4BSIh75iv8U8ZrSp3jbgG-84A"]
 }
