@@ -1,12 +1,17 @@
 <section class="parallax-play" data-index="<%= index %>">
   <img src="./assets/<%= item.image %>" class="fixable">
   <div class="description <%= item.overlay %>">
-    <h3 class="rank"><sup>#</sup><%= item.rank %>: <%= item.name %></h3>
+    <h3 class="rank"><%= item.name %></h3>
 
-    <div class="copy">
-      <h2>SUBHEAD</h2>
+   <div class="copy">
+      <h2><a href="<% item.link %>"><%= item.subhead %></a></h2>
+
+      <p><% if (item.youtube) { %>
+      <iframe src="https://www.youtube.com/embed/<%= item.youtube %>" frameborder="0" allowfullscreen></iframe>
+      <% } %></p>
+
       <p><%= item.chatter %>
-      
+
     </div>
     <div class="credit">
       Photo by <%= item.credit %>
