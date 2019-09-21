@@ -1,6 +1,6 @@
 require("./lib/ads");
 var paywall = require("./lib/paywall");
-paywall(PAGE_ID_GOES_HERE);
+paywall(11994837);
 
 var Share = require("share");
 

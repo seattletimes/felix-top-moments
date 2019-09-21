@@ -14,8 +14,8 @@
   "url": "http://projects.seattletimes.com/2019/sports/felix-hernandez-mariners-top-moments",
   "slug": "felix-top-moments",
   "tags": ["interactive", "parallax"],
-  "image": "",
-  "production": false,
+  "image": "/assets/felix1.jpg",
+  "production": true,
   "embed": true,
   "standout": false,
   "sheets": ["1AHvy2eg-WwLelxhnbW4BSIh75iv8U8ZrSp3jbgG-84A"]
