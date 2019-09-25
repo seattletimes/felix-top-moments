@@ -2,15 +2,15 @@
   "s3": {
     "stage": {
       "bucket": "projects-staging.seattletimes.com",
-      "path": "sports-slider"
+      "path": "perfect-hoop"
     },
     "live": {
       "bucket": "projects.seattletimes.com",
       "path": "2019/sports/felix-hernandez-mariners-top-moments"
     }
   },
-  "title": "The top moments of Felix Hernandez's Mariners career",
-  "description": "From the time he debuted at 19, Felix Hernandez's starts were must-see events. Relive the best moments of his 14-year career in Seattle.",
+  "title": "The top moments of Felix Hernandez’s Mariners career",
+  "description": "From the time he debuted at 19, Felix Hernandez’s starts were must-see events. Relive the best moments of his 14-year career in Seattle.",
   "url": "http://projects.seattletimes.com/2019/sports/felix-hernandez-mariners-top-moments",
   "slug": "felix-top-moments",
   "tags": ["interactive", "parallax"],
